@@ -1,0 +1,1 @@
+# Cluster-Analysis-Method-for-Creating-Typologies
