@@ -1,0 +1,272 @@
+Group number: 0, with 17 members.
+Core: pl.2.3 pl.2.5 pl.2.8 pl.2.12 pl.2.13 pl.2.14 pl.5.2 pl.18.7 pl.18.8 pl.18.11 pl.19.1 pl.19.7 pl.19.10 pl.19.12 pl.19.13 pl.19.18 pl.28.5 
+Members: 
+Average member: 
+Height: 6.04412
+Handle: 0
+HeightDiameterRatio: 0.430255
+WidthCenterBody: 12.0441
+Vertical Rim: 0
+Inverted Rim: 0
+Everted Rim: 0
+Angled Rim: 0
+S-Shaped Profile: 0
+Semicircular Handle: 0
+Spout: 0
+
+Group number: 1, with 16 members.
+Core: pl.2.6 pl.2.10 pl.2.18 pl.2.20 pl.18.12 pl.19.4 pl.19.6 pl.19.8 pl.19.17 pl.19.19 pl.19.20 pl.19.23 
+Members: Pl.1.7 pl.4.1 pl.28.3 pl.28.24 
+Average member: 
+Height: 5.95
+Handle: 0
+HeightDiameterRatio: 0.360356
+WidthCenterBody: 14
+Vertical Rim: 0
+Inverted Rim: 0
+Everted Rim: 0
+Angled Rim: 0
+S-Shaped Profile: 0
+Semicircular Handle: 0
+Spout: 0
+
+Group number: 2, with 3 members.
+Core: pl.19.2 pl.19.5 pl.28.8 
+Members: 
+Average member: 
+Height: 3
+Handle: 0
+HeightDiameterRatio: 0.355556
+WidthCenterBody: 7.25
+Vertical Rim: 0
+Inverted Rim: 0
+Everted Rim: 0
+Angled Rim: 0
+S-Shaped Profile: 0
+Semicircular Handle: 0
+Spout: 0
+
+Group number: 3, with 4 members.
+Core: pl.2.16 pl.28.18 pl.28.19 
+Members: pl.28.17 
+Average member: 
+Height: 4.5
+Handle: 0
+HeightDiameterRatio: 0.268775
+WidthCenterBody: 13.75
+Vertical Rim: 0
+Inverted Rim: 0
+Everted Rim: 0
+Angled Rim: 0
+S-Shaped Profile: 0
+Semicircular Handle: 0
+Spout: 0
+
+Group number: 4, with 4 members.
+Core: pl.19.21 pl.28.15 
+Members: pl.28.3 pl.28.17 
+Average member: 
+Height: 5.25
+Handle: 0
+HeightDiameterRatio: 0.298007
+WidthCenterBody: 15
+Vertical Rim: 0
+Inverted Rim: 0
+Everted Rim: 0
+Angled Rim: 0
+S-Shaped Profile: 0
+Semicircular Handle: 0
+Spout: 0
+
+Group number: 5, with 12 members.
+Core: pl.2.7 pl.2.9 pl.19.24 pl.28.7 pl.28.9 pl.28.10 
+Members: Pl.1.7 pl.2.22 pl.3.3 pl.4.1 pl.28.3 pl.28.17 
+Average member: 
+Height: 6.75
+Handle: 0
+HeightDiameterRatio: 0.370278
+WidthCenterBody: 15.75
+Vertical Rim: 0
+Inverted Rim: 0
+Everted Rim: 0
+Angled Rim: 0
+S-Shaped Profile: 0
+Semicircular Handle: 0
+Spout: 0
+
+Group number: 6, with 3 members.
+Core: pl.2.19 pl.19.9 pl.28.13 
+Members: 
+Average member: 
+Height: 5.25
+Handle: 0
+HeightDiameterRatio: 0.343951
+WidthCenterBody: 12.75
+Vertical Rim: 0
+Inverted Rim: 0
+Everted Rim: 0
+Angled Rim: 0
+S-Shaped Profile: 0
+Semicircular Handle: 0
+Spout: 0
+
+Group number: 7, with 5 members.
+Core: pl.2.21 pl.28.12 
+Members: pl.2.17 pl.2.22 pl.4.1 
+Average member: 
+Height: 6
+Handle: 0
+HeightDiameterRatio: 0.308148
+WidthCenterBody: 17.25
+Vertical Rim: 0
+Inverted Rim: 0
+Everted Rim: 0
+Angled Rim: 0
+S-Shaped Profile: 0
+Semicircular Handle: 0
+Spout: 0
+
+Group number: 8, with 6 members.
+Core: pl.1.8 pl.1.12 pl.1.14 pl.28.4 
+Members: Pl.1.7 pl.28.24 
+Average member: 
+Height: 7.125
+Handle: 0
+HeightDiameterRatio: 0.529369
+WidthCenterBody: 12.75
+Vertical Rim: 0
+Inverted Rim: 0
+Everted Rim: 0
+Angled Rim: 0
+S-Shaped Profile: 0
+Semicircular Handle: 0
+Spout: 0
+
+Group number: 9, with 4 members.
+Core: pl.1.10 pl.2.1 pl.2.2 
+Members: pl.28.24 
+Average member: 
+Height: 7.5
+Handle: 0
+HeightDiameterRatio: 0.538184
+WidthCenterBody: 12
+Vertical Rim: 0
+Inverted Rim: 0
+Everted Rim: 0
+Angled Rim: 0
+S-Shaped Profile: 0
+Semicircular Handle: 0
+Spout: 0
+
+Group number: 10, with 5 members.
+Core: pl.2.15 pl.19.16 pl.22.26 
+Members: pl.4.27 pl.28.16 
+Average member: 
+Height: 4.5
+Handle: 0
+HeightDiameterRatio: 0.347239
+WidthCenterBody: 11
+Vertical Rim: 0
+Inverted Rim: 0
+Everted Rim: 0
+Angled Rim: 0
+S-Shaped Profile: 0
+Semicircular Handle: 0
+Spout: 0
+
+Group number: 11, with 4 members.
+Core: pl.19.14 pl.19.22 
+Members: pl.4.1 pl.28.3 
+Average member: 
+Height: 6.25
+Handle: 0
+HeightDiameterRatio: 0.354771
+WidthCenterBody: 15.125
+Vertical Rim: 0
+Inverted Rim: 0
+Everted Rim: 0
+Angled Rim: 0
+S-Shaped Profile: 0
+Semicircular Handle: 0
+Spout: 0
+
+Group number: 12, with 4 members.
+Core: pl.1.11 pl.28.6 
+Members: pl.2.4 pl.21.4 
+Average member: 
+Height: 9.25
+Handle: 0
+HeightDiameterRatio: 0.503889
+WidthCenterBody: 17.25
+Vertical Rim: 0
+Inverted Rim: 0
+Everted Rim: 0
+Angled Rim: 0
+S-Shaped Profile: 0
+Semicircular Handle: 0
+Spout: 0
+
+Group number: 13, with 5 members.
+Core: pl.19.11 pl.28.14 
+Members: pl.2.11 pl.28.16 pl.28.21 
+Average member: 
+Height: 4
+Handle: 0
+HeightDiameterRatio: 0.369048
+WidthCenterBody: 9
+Vertical Rim: 0
+Inverted Rim: 0
+Everted Rim: 0
+Angled Rim: 0
+S-Shaped Profile: 0
+Semicircular Handle: 0
+Spout: 0
+
+Group number: 15, with 3 members.
+Core: pl.20.5 pl.29.4 
+Members: pl.21.2 
+Average member: 
+Height: 8.625
+Handle: 0
+HeightDiameterRatio: 0.370833
+WidthCenterBody: 19.5
+Vertical Rim: 0
+Inverted Rim: 0
+Everted Rim: 0
+Angled Rim: 0
+S-Shaped Profile: 0
+Semicircular Handle: 0
+Spout: 0
+
+Group number: 16, with 5 members.
+Core: pl.3.4 pl.30.8 
+Members: pl.4.2 pl.20.4 pl.29.7 
+Average member: 
+Height: 10.5
+Handle: 0
+HeightDiameterRatio: 0.3734
+WidthCenterBody: 24.375
+Vertical Rim: 0
+Inverted Rim: 0
+Everted Rim: 0
+Angled Rim: 0
+S-Shaped Profile: 0
+Semicircular Handle: 0
+Spout: 0
+
+Group number: 17, with 5 members.
+Core: Pl.1.3 pl.1.9 
+Members: Pl.1.7 pl.18.10 pl.28.24 
+Average member: 
+Height: 8.25
+Handle: 0
+HeightDiameterRatio: 0.613003
+WidthCenterBody: 13.875
+Vertical Rim: 0
+Inverted Rim: 0
+Everted Rim: 0
+Angled Rim: 0
+S-Shaped Profile: 0
+Semicircular Handle: 0
+Spout: 0
+
